@@ -1,0 +1,13 @@
+{
+  "name": "eotl-legacy",
+  "version": "0.1.0",
+  "homepage": "http://eotl.github.io/legacy",
+  "private": false,
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  }
+}
